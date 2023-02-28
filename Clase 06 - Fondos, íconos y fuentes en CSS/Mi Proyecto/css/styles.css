@@ -1,0 +1,42 @@
+.centrado {
+    text-align: center;
+}
+
+header {
+    background-color: #E6E6E6;
+    color: #005677;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#franja {
+    height: 50px;
+    background-color: white;
+}
+
+h2 {
+    color: #005677;
+    text-transform: uppercase;
+    background-color: #C4C4C4;
+}
+
+span {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #005677;
+    color:#E6E6E6
+}
+
+.cursiva {
+    font-style: italic;
+}
+
+.titulo-principal {
+    background-color: #C4C4C4;
+}
+
+.espaciado {
+    letter-spacing: 5px;
+}
